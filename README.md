@@ -1,6 +1,7 @@
 # FinalProject_ComSkillNeuro
 Final project files for computational skills neuroscience.
 I plan to convert it into python version.
+There are some sample data in the behavioral data folder and session result folder.
 
 **Input data**
 The input data is the behavioral event recorded during brain computer interface (BCI) task. 
