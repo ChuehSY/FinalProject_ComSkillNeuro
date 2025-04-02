@@ -1,6 +1,7 @@
 # FinalProject_ComSkillNeuro
 Final project files for computational skills neuroscience.
 I plan to convert it into python version.
+
 **Input data**
 The input data is the behavioral event recorded during brain computer interface (BCI) task. 
 The original MATLAB file will compute the basic trial information in that session.
